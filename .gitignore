@@ -1,0 +1,11 @@
+log/
+model/
+modules/__pycache__/
+save/
+runtime/
+env/
+weights/
+*.mp4
+*.wav
+py311/
+前置软件/
